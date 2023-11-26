@@ -357,6 +357,7 @@
 "Assets/Assets/Kiyoun/Collectibles/Gems Ultimate Pack/Scripts/AnimationScript.cs"
 "Assets/Scripts/Kiyoun/HelicopterAI.cs"
 "Assets/Scripts/Kiyoun/PatrolEnemy.cs"
+"Assets/Scripts/Yeongbin/PlayerMovement.cs"
 -langversion:9.0
 
 /deterministic
