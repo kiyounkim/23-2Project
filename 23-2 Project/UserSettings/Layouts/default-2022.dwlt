@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 99
+  controlID: 109
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -98,7 +98,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 1
-  controlID: 43
+  controlID: 107
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -123,7 +123,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 44
+  controlID: 108
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -350,7 +350,7 @@ MonoBehaviour:
   - {fileID: 19}
   - {fileID: 15}
   m_Selected: 0
-  m_LastSelected: 1
+  m_LastSelected: 0
 --- !u!114 &15
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -483,7 +483,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Assets/Yeongbin
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -491,7 +491,7 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Assets/Yeongbin
   m_LastFoldersGridSize: -1
   m_LastProjectPath: "C:\\Users\\user\\Desktop\\\uD559\uD68C \uD504\uB85C\uC81D\uD2B8\\23-2Project\\23-2
     Project"
@@ -499,9 +499,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 505b0000
-    m_LastClickedID: 23376
-    m_ExpandedIDs: 00000000505b0000725b0000ffffff7f
+    m_SelectedIDs: 625b0000
+    m_LastClickedID: 23394
+    m_ExpandedIDs: 00000000445b0000465b0000645b00006a5b00000a5f0000ffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -529,7 +529,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000
+    m_ExpandedIDs: 00000000445b0000465b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -556,7 +556,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000984200004e42000062590000e2a30000825f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -671,7 +671,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 2efbffff
+      m_ExpandedIDs: 9cadffffecadffff04b0ffffc0f2ffff74f4ffffd8f4ffff8cf6ffffe4f6ffffaaf7ffff16f8ffff74f8ffff2efbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1064,9 +1064,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -41.226807, y: -36.024357, z: -19.7762}
+    m_Target: {x: -0.49770868, y: -5.869632, z: 5.2540584}
     speed: 2
-    m_Value: {x: -41.226807, y: -36.024357, z: -19.7762}
+    m_Value: {x: -0.49770868, y: -5.869632, z: 5.2540584}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1112,13 +1112,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.14210886, y: 0.8423928, z: -0.26919878, w: -0.44467685}
+    m_Target: {x: -0.42773592, y: 0.053651962, z: -0.025444154, w: -0.90198106}
     speed: 2
-    m_Value: {x: -0.14210701, y: 0.84238183, z: -0.2691953, w: -0.44467106}
+    m_Value: {x: -0.4276858, y: 0.055003397, z: -0.026085028, w: -0.9018754}
   m_Size:
-    m_Target: 41.132965
+    m_Target: 14.491601
     speed: 2
-    m_Value: 41.132965
+    m_Value: 13.86756
   m_Ortho:
     m_Target: 0
     speed: 2
